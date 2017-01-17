@@ -8,7 +8,7 @@ I created this adapter for programming and testing ESP07 on breadboard with chea
 
 ![alt](/images/esp07_prog_dps.png?raw=true)
 
-There is nothing special. Inner sockets is used to plug module (with soldered pins) and outer sockets with 2.54mm distance for wiring to breadboard. 2x4 pinstrip is soldered from bottom side of PCB.
+There is nothing special. Inner sockets with 2mm pin distance is used to plug module (with soldered pins) and outer sockets with 2.54mm pin distance for wiring to breadboard. 2x4 pinstrip is soldered from bottom side of PCB.
 
 ## Some other project images
 
